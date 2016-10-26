@@ -11,7 +11,10 @@ projects: [spring-security,spring-security-oauth,spring-boot]
 :all: {asterisk}{asterisk}
 
 = This is fork from spring project 
+
 Purpose is to modify and test connection to OpenAm as OAuth2/OpenID Connect Server
+
+
 
 = Social Login with Spring Boot and OAuth2
 
